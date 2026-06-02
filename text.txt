@@ -1,0 +1,7 @@
+--->git init
+--->git status (optional)
+--->git add -A  / git add .  /git add index.html style.css
+--->git commit -m ",message"
+--->git config --list (for checking the configuration list)
+--->git config --global user.name roshin
+--->git config --global user.mail roshinpes99@gmail.com
